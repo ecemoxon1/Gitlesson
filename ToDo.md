@@ -1,4 +1,4 @@
-# My To Do List
+## My To Do List
 
 I have lots of things I need to do today.
 
@@ -10,3 +10,10 @@ I have lots of things I need to do today.
   2. Do the dishes
   3. Play Stardew Valley
   4. Go to bed
+
+# Things to do tomorrow
+
+- Attend the second part of the Git, GitHub and GitKraken course.
+- Have lunch
+- Cry again
+- Go home
